@@ -1,0 +1,82 @@
+#principal {	
+	width:1300px;		
+	margin-right:-500px;		
+}
+
+#cabecalho {	
+	position:absolute;
+	width: 1335px;
+	height: 250px;	
+	background-color:#58ACFA;
+	font-family:fantasy;
+	font-size:50px;	
+	text-align:center;
+/*	border-radius: 40px;
+margin-bottom: 30px;
+	border: 5px solid #0B0B61;
+	O jeito foi diminuir em 30px a distância entre os componentes que ficaram longe uns dos outros.*/
+	
+}
+
+/*#a.menu{
+padding-top:270px !important;
+	width:1335px!important;
+	height:50px !important;
+	background-color:#424242 !important;
+	font-size:30px !important;
+	text-align:center !important;
+	word-spacing:100px !important;
+	}*/
+
+#dentroCabeçalho{    
+	padding-top:270px !important;
+	width:1335px!important;
+	height:50px !important;
+	background-color:#424242;
+	font-size:30px;
+	text-align:center;
+	word-spacing:100px;
+}
+
+#esquerda{
+	padding-top:500px;
+	border: 5px solid #424242;
+	width:200px;
+	height:400px;
+	padding:10px;
+	font-size:20px;
+}
+
+#corpo {		
+	width: 1000px;
+	height:100%;
+	
+}
+
+#centro{
+float: center;
+	width: 790px;
+}
+
+#quartos{
+border:solid;}
+
+#home{
+	font-size:20px;
+	text-align:center;
+	padding-left:500px;
+}
+
+#rodape {	
+	margin-top: 1000px;
+	margin-left:1200px;			
+}
+
+#inserir{
+padding-top:50px;	
+}
+#login{
+}
+
+
+	

@@ -1,0 +1,77 @@
+#principal {	
+	width:1300px;
+	margin-right:-500px;
+position:absolute;	
+}
+
+#cabecalho {	
+	position:absolute;
+	width: 1335px;
+	height: 250px;	
+	background-color:#58ACFA;
+	font-family:fantasy;
+	font-size:80px;	
+	text-align:center;		
+}
+
+#dentroCabeçalho{
+	padding-top:270px;
+	width:1335px;
+	height:50px;
+	background-color:#424242;
+	font-size:30px;
+	text-align:center;
+	word-spacing:100px;
+}
+
+#centro{
+padding-right:100px0px;
+padding-left:200px;
+width:500px;
+}
+
+#sobre{
+font-size:20px;
+text-align:center;
+}
+
+#quartos{
+width:800px;
+height:200px;
+background-color: white;
+ text-align:center;
+ border: 10px solid;
+ border-color:gray;
+ padding:10px;
+ margin-top:40px;
+ margin-left:30px;
+ font-style:bold;
+
+ }
+
+.q img{
+ float:left;
+height:20px;
+width:20px;
+}
+
+#imgIndex{
+	margin-top:50px;
+}
+
+#diferença{
+margin-top:60px;}
+
+
+
+#rodape {	
+	margin-top: 350px;
+	margin-left:1200px;			
+}
+
+
+#centro {	
+	float: left;
+	width: 790px;	
+	}
+	

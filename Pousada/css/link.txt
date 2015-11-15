@@ -1,0 +1,10 @@
+background:#01DF3A;
+	color:black;
+	text-decoration: none;
+		
+
+border-style: solid;
+	border-top-color: #01DF3A;
+	border-right-color:#01DF3A;
+	border-bottom-color: #01DF3A;
+	border-left-color: #01DF3A;
